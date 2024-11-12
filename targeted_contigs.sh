@@ -1,3 +1,4 @@
+```sh
 #!/bin/bash
 
 reset_color=$(tput sgr0)
@@ -43,3 +44,4 @@ else
     echo "${reset_color}Error: Failed to generate final.contigs.30%.pair.extract.fq"
     exit 1
 fi
+```
