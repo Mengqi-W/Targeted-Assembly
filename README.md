@@ -8,3 +8,5 @@ After obtaining the alignment file from Step 1, you can choose to extract target
 For targeted reads, run `targeted_reads.sh` to generate the reads suitable for further assembly.
 
 For targeted contigs, run `targeted_contigs.sh` to extract the contigs corresponding to the targeted regions.
+
+
