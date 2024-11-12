@@ -1,3 +1,4 @@
+```sh
 #!/bin/bash
 
 set -e
@@ -41,3 +42,4 @@ for file in *_1.30%.pair.diamond.id.txt; do
         echo "Generated: ${prefix}_2.30%.pair.extract.fq"
     fi
 done
+```
